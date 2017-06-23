@@ -6,6 +6,7 @@
 
     <ImageView
         android:id="@+id/ivBackdropimage"
+
         android:layout_width="480dp"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
